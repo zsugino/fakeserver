@@ -20,5 +20,77 @@
       "id": 5,
       "title": "Wedding"
     }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "listId": 1,
+      "title": "Trail Mix",
+      "quantity": 2,
+      "price": 5.99
+    },
+    {
+      "id": 2,
+      "listId": 1,
+      "title": "Water Bottle",
+      "quantity": 1,
+      "price": 9.99
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "title": "Sleeping Bag",
+      "quantity": 1,
+      "price": 29.99
+    },
+    {
+      "id": 4,
+      "listId": 2,
+      "title": "Flashlight",
+      "quantity": 1,
+      "price": 15.99
+    },
+    {
+      "id": 5,
+      "listId": 3,
+      "title": "Goggles",
+      "quantity": 1,
+      "price": 12.99
+    },
+    {
+      "id": 6,
+      "listId": 3,
+      "title": "Swim Cap",
+      "quantity": 1,
+      "price": 4.99
+    },
+    {
+      "id": 7,
+      "listId": 4,
+      "title": "Party Favors",
+      "quantity": 20,
+      "price": 0.99
+    },
+    {
+      "id": 8,
+      "listId": 4,
+      "title": "Decorations",
+      "quantity": 10,
+      "price": 19.99
+    },
+    {
+      "id": 9,
+      "listId": 5,
+      "title": "Wedding Cake",
+      "quantity": 1,
+      "price": 199.99
+    },
+    {
+      "id": 10,
+      "listId": 5,
+      "title": "Champagne",
+      "quantity": 5,
+      "price": 59.99
+    }
   ]
 }
