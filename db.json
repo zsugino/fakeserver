@@ -27,70 +27,108 @@
       "listId": 1,
       "title": "Trail Mix",
       "quantity": 2,
-      "price": 5.99
+      "price": 5.99,
+      "description": "Nutritious mix of nuts, seeds, and dried fruits, ideal for energy during hikes.",
+      "category": "Food",
+      "priority": "High",
+      "weight": "0.5 lbs",
+      "expiryDate": "2024-12-31"
     },
     {
       "id": 2,
       "listId": 1,
       "title": "Water Bottle",
       "quantity": 1,
-      "price": 9.99
+      "price": 9.99,
+      "description": "32 oz insulated, BPA-free water bottle with leak-proof lid.",
+      "category": "Gear",
+      "priority": "High",
+      "weight": "1 lb",
+      "expiryDate": null
     },
     {
       "id": 3,
       "listId": 2,
       "title": "Sleeping Bag",
       "quantity": 1,
-      "price": 29.99
+      "price": 29.99,
+      "description": "Lightweight, comfortable sleeping bag suitable for temperatures down to 20°F.",
+      "category": "Camping Gear",
+      "priority": "High",
+      "weight": "3 lbs",
+      "expiryDate": null
     },
     {
       "id": 4,
       "listId": 2,
       "title": "Flashlight",
       "quantity": 1,
-      "price": 15.99
+      "price": 15.99,
+      "description": "High-intensity, durable LED flashlight with multiple lighting modes.",
+      "category": "Camping Gear",
+      "priority": "High",
+      "weight": "0.5 lbs",
+      "expiryDate": null
     },
     {
       "id": 5,
       "listId": 3,
       "title": "Goggles",
       "quantity": 1,
-      "price": 12.99
+      "price": 12.99,
+      "description": "Anti-fog, UV protection swimming goggles with a secure fit.",
+      "category": "Swimwear",
+      "priority": "High",
+      "weight": "0.25 lbs",
+      "expiryDate": null
     },
     {
       "id": 6,
       "listId": 3,
       "title": "Swim Cap",
       "quantity": 1,
-      "price": 4.99
+      "price": 4.99,
+      "description": "Elastic silicone swim cap, designed to comfortably fit all head sizes.",
+      "category": "Swimwear",
+      "priority": "Medium",
+      "weight": "0.1 lbs",
+      "expiryDate": null
     },
     {
       "id": 7,
       "listId": 4,
       "title": "Party Favors",
       "quantity": 20,
-      "price": 0.99
+      "price": 0.99,
+      "description": "Assorted party favors to thank guests, includes fun toys and gadgets.",
+      "category": "Party Supplies",
+      "priority": "Medium",
+      "weight": "2 lbs",
+      "expiryDate": "2024-06-30"
     },
     {
       "id": 8,
       "listId": 4,
       "title": "Decorations",
       "quantity": 10,
-      "price": 19.99
+      "price": 19.99,
+      "description": "Festive decorations to create a memorable atmosphere for the farewell party.",
+      "category": "Party Supplies",
+      "priority": "High",
+      "weight": "5 lbs",
+      "expiryDate": null
     },
     {
       "id": 9,
       "listId": 5,
       "title": "Wedding Cake",
       "quantity": 1,
-      "price": 199.99
-    },
-    {
-      "id": 10,
-      "listId": 5,
-      "title": "Champagne",
-      "quantity": 5,
-      "price": 59.99
+      "price": 199.99,
+      "description": "Elegantly designed, three-tier wedding cake, customizable flavors and designs.",
+      "category": "Food",
+      "priority": "High",
+      "weight": "20 lbs",
+      "expiryDate": "On the event day"
     }
   ]
 }
