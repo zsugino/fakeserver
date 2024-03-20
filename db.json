@@ -1,24 +1,24 @@
-{"lists":[
-  {
-    "id": 1,
-    "title": "Hiking"
-  },
-  {
-    "id": 2,
-    "title": "School Overnight Trip"
-  },
-  {
-    "id": 3,
-    "title": "Swimming"
-  },
-  {
-    "id": 4,
-    "title": "Farewell Party"
-  },
-  {
-    "id": 5,
-    "title": "Wedding"
-  }
-]
-}
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "Hiking"
+    },
+    {
+      "id": 2,
+      "title": "School Overnight Trip"
+    },
+    {
+      "id": 3,
+      "title": "Swimming"
+    },
+    {
+      "id": 4,
+      "title": "Farewell Party"
+    },
+    {
+      "id": 5,
+      "title": "Wedding"
+    }
+  ]
 }
